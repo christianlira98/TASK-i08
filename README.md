@@ -2,6 +2,9 @@
 
 ## Como usar:
 
+- Instalar dependencias:
+<code>npm install</code>
+
 - Rodar o servidor:
 <code>nodemon server.js</code>
 
