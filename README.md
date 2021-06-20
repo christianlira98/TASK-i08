@@ -2,6 +2,9 @@
 
 ## Como usar:
 
+- Rodar o servidor:
+<code>nodemon server.js</code>
+
 ### Requisições do tipo GET:
 
 - localhost:3333/dados => traz todos os dados da planilha;
